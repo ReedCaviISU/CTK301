@@ -1,0 +1,97 @@
+body {
+
+}
+
+#everything {
+  background-color: #fbd335;
+  width: 800px;
+  height: 990px;
+}
+
+#director {
+  border-bottom: 4px solid #8812D6;
+  width: 510px;
+  font-family: impact;
+  color: #8812D6;
+  font-size: 15px;
+  letter-spacing: 5px;
+  font-weight: bold;
+  margin-left: 7px;
+  padding-top: 15px;
+  padding-bottom: 7px;
+}
+
+#directorname {
+  font-size: 30px;
+}
+
+#moviename {
+  font-family: impact;
+  font-size: 113px;
+  margin: 0px 10px 10px 10px;
+  padding-right: 200px;
+  text-align: center;
+  line-height: 120px;
+  padding-top: 13px;
+}
+
+#actors {
+  border-bottom: 4px solid #8812D6;
+  width: 510px;
+  font-family: impact;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0px 0px 10px 0px;
+  margin-bottom: 10px;
+  margin-left: 7px;
+}
+
+#link {
+  color: #AF1190;
+  text-decoration: none;
+  padding: 0px 0px 10px 160px;
+  font-family: impact;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 10px 0px 0px 0px;
+
+}
+
+#link:hover {
+  color: #AF1100;
+  font-weight: bold;
+}
+
+#head {
+  background-image: url(images/Lakeith.jpg);
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: 520px;
+}
+
+.RatedR {
+  padding-left: 147px;
+  height: 35px;
+  margin-top: 10px;
+}
+
+.smallwords {
+  color: #8812D6;
+  font-size: 20px;
+}
+
+.actornamesred {
+  color: #D61100;
+}
+
+.actornamesmagenta {
+  color: #AF1190;
+}
+
+.movienamered {
+  color: #D61100;
+}
+
+.movietitlemagenta {
+  color: #AF1190;
+}
